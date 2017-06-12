@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc></loc>
-    <lastmod>2017-06-02</lastmod>
+    <lastmod>2017-06-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
     <url>
     <loc>/_posts/.DS_Store</loc>
-    <lastmod>2017-06-02T08:09:26-07:00</lastmod>
+    <lastmod>2017-06-12T14:39:40-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+    <url>
+    <loc>/blog/2017/06/12/reviving-our-continuous-integration/</loc>
+    <lastmod>2017-06-12T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
